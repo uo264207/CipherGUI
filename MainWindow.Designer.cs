@@ -52,7 +52,7 @@
             this.input_text.Size = new System.Drawing.Size(213, 205);
             this.input_text.TabIndex = 0;
             this.input_text.Text = "";
-            this.input_text.TextChanged += new System.EventHandler(this.Input_text_TextChanged);
+           
             // 
             // sidePanel
             // 

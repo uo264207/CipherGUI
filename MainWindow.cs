@@ -25,12 +25,6 @@ namespace CipherGUI
            
         }
 
-        private void Input_text_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-      
 
         private void Button1_Click(object sender, EventArgs e)
         {
