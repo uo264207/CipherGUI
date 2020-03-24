@@ -30,10 +30,7 @@ namespace CipherGUI
 
         }
 
-        private void Output_text_TextChanged(object sender, EventArgs e)
-        {
-
-        }
+      
 
         private void Button1_Click(object sender, EventArgs e)
         {
@@ -42,5 +39,7 @@ namespace CipherGUI
                output_text.Text=cipher_mode.Execute(input_text.Text);
             }
         }
+
+       
     }
 }
